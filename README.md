@@ -1,4 +1,4 @@
-#python-project-aparilo-ecomms
-##This is a follow up of previous SQL project
+python-project-aparilo-ecomms
+This is a follow up of previous SQL project
 
-##The project repository contains the following files and directories:
+The project repository contains the following files and directories:
