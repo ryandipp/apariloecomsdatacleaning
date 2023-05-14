@@ -1,4 +1,4 @@
-python-project-aparilo-ecomms
-This is a follow up of previous SQL project
+# python-customer_segmentation-project-aparilo-ecomms
+A follow up to previous SQL project. analyzing sales, products & users data of Aparilo Ecommerce, with clustering analysis using python machine learning.
 
-The project repository contains the following files and directories:
+ryandi
